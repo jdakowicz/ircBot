@@ -1,0 +1,10 @@
+{
+    "server": "portlane.se.quakenet.org",
+    "name": "JakubczykBot",
+    "realName": "Jakubczyk Bot IRC client",
+    "channels": [
+        "#testJakubczyk"
+    ],
+    "autoRejoin": true,
+    "autoConnect": true
+}
